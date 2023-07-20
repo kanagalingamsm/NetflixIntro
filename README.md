@@ -1,4 +1,3 @@
 # Netflix Intro Animation Pure CSS
-
-A Pen created on CodePen.io. Original URL: [https://codepen.io/claudio_bonfati/pen/mdryxPv](https://codepen.io/claudio_bonfati/pen/mdryxPv).
+Download the code files and open in your IDE as a project and run it from the index.html
 
